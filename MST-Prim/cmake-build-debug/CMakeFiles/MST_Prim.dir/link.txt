@@ -1,3 +1,0 @@
-"D:\Clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\MST_Prim.dir/objects.a
-D:\Clion\mingw64\bin\ar.exe cr CMakeFiles\MST_Prim.dir/objects.a @CMakeFiles\MST_Prim.dir\objects1.rsp
-D:\Clion\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\MST_Prim.dir/objects.a -Wl,--no-whole-archive  -o MST_Prim.exe -Wl,--out-implib,libMST_Prim.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MST_Prim.dir\linklibs.rsp
