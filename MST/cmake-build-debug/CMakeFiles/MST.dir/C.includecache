@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/#Programming/C&C++/Algorithm/MST/GrapeMartix.h
+malloc.h
+E:/#Programming/C&C++/Algorithm/MST/malloc.h
+
+E:/#Programming/C&C++/Algorithm/MST/MST.h
+GrapeMartix.h
+E:/#Programming/C&C++/Algorithm/MST/GrapeMartix.h
+
+E:/#Programming/C&C++/Algorithm/MST/main.c
+stdio.h
+-
+MST.h
+E:/#Programming/C&C++/Algorithm/MST/MST.h
+
